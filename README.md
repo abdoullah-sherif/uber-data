@@ -1,3 +1,3 @@
 # uber-data-project
-    aim to manupilate and anlyze the data of ober trip with python by using pandas
+         Aim to manipulate and analyze the data of ober trip with python by using pandas
     
